@@ -1,0 +1,12 @@
+python3 makePlots_JECvar.py -i mutau_UL2018_BDT_comb.root -s met_unclustered2018
+python3 makePlots_JECvar.py -i mutau_UL2018_BDT_comb.root -s jer2018
+python3 makePlots_JECvar.py -i mutau_UL2017_BDT_comb.root -s met_unclustered2017
+python3 makePlots_JECvar.py -i mutau_UL2017_BDT_comb.root -s jer2017
+python3 makePlots_JECvar.py -i mutau_UL2016_BDT_comb.root -s met_unclustered2016
+python3 makePlots_JECvar.py -i mutau_UL2016_BDT_comb.root -s jer2016
+python3 makePlots_JECvar.py -i etau_UL2018_BDT_comb.root -s met_unclustered2018
+python3 makePlots_JECvar.py -i etau_UL2018_BDT_comb.root -s jer2018
+python3 makePlots_JECvar.py -i etau_UL2017_BDT_comb.root -s met_unclustered2017
+python3 makePlots_JECvar.py -i etau_UL2017_BDT_comb.root -s jer2017
+python3 makePlots_JECvar.py -i etau_UL2016_BDT_comb.root -s met_unclustered2016
+python3 makePlots_JECvar.py -i etau_UL2016_BDT_comb.root -s jer2016

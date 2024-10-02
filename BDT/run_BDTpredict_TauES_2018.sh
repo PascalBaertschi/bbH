@@ -1,0 +1,12 @@
+python3 BDT.py -y 2018 -c mutau -s scale_t_1prongUp -p
+python3 BDT.py -y 2018 -c etau -s scale_t_1prongUp -p
+python3 BDT.py -y 2018 -c mutau -s scale_t_1prongDown -p
+python3 BDT.py -y 2018 -c etau -s scale_t_1prongDown -p
+python3 BDT.py -y 2018 -c mutau -s scale_t_1prong1piUp -p
+python3 BDT.py -y 2018 -c etau -s scale_t_1prong1piUp -p
+python3 BDT.py -y 2018 -c mutau -s scale_t_1prong1piDown -p
+python3 BDT.py -y 2018 -c etau -s scale_t_1prong1piDown -p
+python3 BDT.py -y 2018 -c mutau -s scale_t_3prongUp -p
+python3 BDT.py -y 2018 -c etau -s scale_t_3prongUp -p
+python3 BDT.py -y 2018 -c mutau -s scale_t_3prongDown -p
+python3 BDT.py -y 2018 -c etau -s scale_t_3prongDown -p
